@@ -5,7 +5,6 @@ abstract class BankAccount {
     int accountNumber;
     String accountHolderName;
     double balance;
-
     // Constructor
     BankAccount(int accountNumber, String accountHolderName, double balance) {
 
